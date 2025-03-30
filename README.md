@@ -84,5 +84,6 @@ Caso tenha interesse em contribuir, sinta-se à vontade para abrir uma **Issue**
 
 ---
 **Elaborado por**: Fernando Cavalheiro Gianini
-**Linkedin**: (https://www.linkedin.com/in/fernandogianini/)
+
+**Linkedin**: https://www.linkedin.com/in/fernandogianini
 
