@@ -4,7 +4,7 @@
 Este repositório documenta os aprendizados adquiridos no módulo sobre **Microsoft Copilot Studio** e sua integração com a **Power Platform**. O Microsoft Copilot Studio foi lançado em dezembro de 2019 para facilitar a criação de chatbots e integra-se à Power Platform, que inclui **Power Apps, Power Automate, Power BI, Copilot Studio e Power Pages**.
 
 O Copilot Studio tem papel fundamental na **Inteligência Artificial**, permitindo:
-- Automar tarefas repetitivas
+- Automatizar tarefas repetitivas
 - Gerenciar informações rapidamente
 - Oferecer suporte ao cliente 24/7
 - Analisar grandes volumes de dados
@@ -72,12 +72,6 @@ O desafio prático incluiu:
    - **Modelo pronto** (como Viagens Seguras)
    - **Descrição IA** (usando prompts)
    - **Copilot em branco** (definição manual de funções e interações)
-
-## Habilidades Desenvolvidas
-Este módulo proporcionou avanço em:
-- **Hard Skills**: Conhecimento em Power Platform, IA e autômato
-- **Soft Skills**: Trabalho em equipe, pensamento crítico e gestão de tempo
-- **Aprendizagem Baseada em Projetos (PBL)**: Construção de portfólio e experiência prática
 
 ## Contribuição
 Caso tenha interesse em contribuir, sinta-se à vontade para abrir uma **Issue** ou um **Pull Request** com melhorias e sugestões!
