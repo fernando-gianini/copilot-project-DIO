@@ -83,6 +83,6 @@ Este módulo proporcionou avanço em:
 Caso tenha interesse em contribuir, sinta-se à vontade para abrir uma **Issue** ou um **Pull Request** com melhorias e sugestões!
 
 ---
-**Autor**: [Fernando Cavalheiro Gianini]
-**Contato**: [(https://www.linkedin.com/in/fernandogianini/)]
+**Elaborado por**: Fernando Cavalheiro Gianini
+**Linkedin**: (https://www.linkedin.com/in/fernandogianini/)
 
