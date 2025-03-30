@@ -1,4 +1,4 @@
-# README - Aprendizados do Módulo sobre Microsoft Copilot Studio e Power Platform
+# Aprendizados do Módulo sobre Microsoft Copilot Studio e Power Platform
 
 ## Visão Geral
 Este repositório documenta os aprendizados adquiridos no módulo sobre **Microsoft Copilot Studio** e sua integração com a **Power Platform**. O Microsoft Copilot Studio foi lançado em dezembro de 2019 para facilitar a criação de chatbots e integra-se à Power Platform, que inclui **Power Apps, Power Automate, Power BI, Copilot Studio e Power Pages**.
